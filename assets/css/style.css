@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    background-color: black;  
+    font-family: 'Montserrat', sans-serif;  
+}
+ header {
+     height: 100px;
+     background-color: #000;
+ }
+ .header {
+     max-width: 1140px;
+     height: 100px;
+     background-color: darkblue;
+     margin: auto;
+ }

@@ -27,8 +27,9 @@ Contém as imagens utilizadas no HTML
 Contém todas as imagens que não são de uso especifico do site, ou seja, as que serão carregadas durante o uso do mesmo.
 
 ## Arquivo home.html
-Contém toda a estrutura da página
+Contém toda a estrutura da página, sendo uma página preparada para ter responsividade.
 
 ## README.md
 
 Este arquivo aqui.
+
